@@ -1,4 +1,4 @@
-# Yape Code Challenge :rocket:
+# Code Challenge :rocket:
 
 - [Problem](#problem)
 - [Tech Stack](#tech_stack)
